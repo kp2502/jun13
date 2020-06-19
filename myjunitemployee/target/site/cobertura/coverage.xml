@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="1.0" branch-rate="1.0" lines-covered="7" lines-valid="7" branches-covered="0" branches-valid="0" complexity="1.0" version="2.0.3" timestamp="1589925235148">
+	<sources>
+		<source>--source</source>
+		<source>C:/Users/Krimali/Documents/NetBeansProjects/myjunitemployee/src/main/java</source>
+	</sources>
+	<packages>
+		<package name="com.itexps.myjunitemployee" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="com.itexps.myjunitemployee.Employee" filename="com/itexps/myjunitemployee/Employee.java" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="12" hits="2" branch="false"/>
+							</lines>
+						</method>
+						<method name="getFirstname" signature="()Ljava/lang/String;" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="17" hits="1" branch="false"/>
+							</lines>
+						</method>
+						<method name="getLastname" signature="()Ljava/lang/String;" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="25" hits="2" branch="false"/>
+							</lines>
+						</method>
+						<method name="setFirstname" signature="(Ljava/lang/String;)V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="21" hits="1" branch="false"/>
+								<line number="22" hits="1" branch="false"/>
+							</lines>
+						</method>
+						<method name="setLastname" signature="(Ljava/lang/String;)V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="29" hits="1" branch="false"/>
+								<line number="30" hits="1" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="12" hits="2" branch="false"/>
+						<line number="17" hits="1" branch="false"/>
+						<line number="21" hits="1" branch="false"/>
+						<line number="22" hits="1" branch="false"/>
+						<line number="25" hits="2" branch="false"/>
+						<line number="29" hits="1" branch="false"/>
+						<line number="30" hits="1" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
